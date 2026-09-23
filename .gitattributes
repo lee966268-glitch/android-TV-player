@@ -1,0 +1,5 @@
+
+# Gradle wrapper must keep LF on all platforms
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+gradle/wrapper/gradle-wrapper.jar binary
